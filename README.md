@@ -56,4 +56,4 @@ Based on the analysis, several strategic recommendations emerge:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/AtliQ-Grands-Analysis.git
+   git clone https://github.com/Tensorninja03/AtliQ_Hospitality_Analysis-Python.git
